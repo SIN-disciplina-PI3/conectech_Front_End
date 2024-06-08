@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+@layer base{
+    body{
+        @apply p-0 m-0 box-border overflow-x-hidden h-screen w-screen flex flex-col 
+    }
+    li{
+        @apply list-none
+    }
+}
+
+
+
+@layer components {
+    .conectech-button{
+        @apply rounded-3xl bg-[#0B7FBE] py-2.5 px-16 text-gray-50 font-poppins whitespace-nowrap
+    }
+   
+    .fundo-form{
+        @apply flex flex-col justify-center items-center border-[0.73px] border-[#8B8B8B] rounded-xl bg-[#1f2744] 
+
+    }
+
+    .input-form{
+        @apply outline-none mp:text-sm mm:text-base  mg:text-lg mp:px-3 mp:py-2 mp:pl-10 placeholder:text-slate-400 w-full rounded-md ease-in duration-300
+    }
+
+    .div-input-with-icons{
+        @apply flex items-center relative text-[#0d0c22] rounded-md 
+    }
+
+   
+
+    .label-input-form{
+        @apply font-poppins text-[#fff] text-xs mp:mb-1 mm:text-sm mg:text-base 2xl:text-lg
+    }
+
+    .div-input-form{
+        @apply w-full  flex flex-col 
+    }
+
+    
+   
+}

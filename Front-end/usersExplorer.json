@@ -1,0 +1,33 @@
+[
+    {
+        
+        "fotoPerfil": "images/img-user.jpg",
+        "nome": "Felipe Oliveira",
+        "tags":["JS", "React", "Java"]
+    },
+    {
+        
+        "fotoPerfil": "images/img-user.jpg",
+        "nome": "Lara Nunes",
+        "tags":["JS", "React", "Java"]
+    },
+    {
+        
+        "fotoPerfil": "images/img-user.jpg",
+        "nome": "Larinha Linda",
+        "tags":["JS", "React", "Java"]
+    },
+    {
+        
+        "fotoPerfil": "images/img-user.jpg",
+        "nome": "Lara Nunes",
+        "tags":["JS", "React", "Java"]
+    },
+    {
+        
+        "fotoPerfil": "images/img-user.jpg",
+        "nome": "Lara Nunes",
+        "tags":["JS", "React", "Java"]
+    }
+    
+]
